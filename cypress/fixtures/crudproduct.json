@@ -1,0 +1,19 @@
+{
+    "stage-baseurl":"https://mobile-store-gateway-dev.xendit.co",
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uX3V1aWQiOiI5ODZkMDEwNC1iNjNmLTQ3ZDYtODUzYi00YWM2Y2QxNjI5ZjkiLCJ1c2VyIjp7ImlkIjoiNjJjYjlhODJlZjJiMjYwMDIwYzY2MDIxIn0sImJ1c2luZXNzIjp7ImlkIjoiNjJjYjlhN2ZlMmZmMjgzNzY4ZTJkM2IzIn0sInVzZXJfYnVzaW5lc3MiOnsiaWQiOiI2MmNiOWE4MmVmMmIyNjAwMjBjNjYwMjIifSwicm9sZSI6InVzZXIiLCJpYXQiOjE2NTc1MTEyNTB9.Gl5Ai4bOJJI5v2qKUnKI9rcLXtpgojfXaPsgQOHlTDM",
+    "name":"TestProduct",
+    "decription": "Test Product Decription",
+    "price":"500000",
+    "stock":"20",
+    "status":"ENABLED",
+    "src":"https://cdn-store.xendit.co/dev/96f8545d-dd31-4dda-a27e-9ac20ac4a509.png",
+    "price":"500000",
+    "price":"500000",
+    "price":"500000",
+    "price":"500000",
+
+
+
+    "getProducts":"/api/v2/product"
+
+  }
